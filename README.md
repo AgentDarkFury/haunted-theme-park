@@ -3,8 +3,15 @@
 This is a passion project exploring the possiblity of making an interactive virtual theme park, but haunted.
 Here's a few clips from very early stages of prototyping.
 Stay tuned for more updates!
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e0a6e0a-32b1-440f-9557-95738ce7a516" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8de846a7-6a75-4de7-b0b6-df80c10839b2" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3f791d4-628b-4a5c-80b2-1922d3818096" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d64345c5-c880-4e1e-8bf8-f3d4d3def0fc" />
 
+Download the prototype here:
+https://agentdarkfury.itch.io/final-destination
+<img width="1920" height="1080" alt="ride toggle" src="https://github.com/user-attachments/assets/32a53485-d31c-43c6-8cef-fe65906cbd46" />
+<img width="1920" height="1080" alt="reaper" src="https://github.com/user-attachments/assets/38143a53-d5cc-4a38-9acc-2379406dca0f" />
+<img width="1920" height="1080" alt="npc" src="https://github.com/user-attachments/assets/5755d50b-a5c6-4b52-baea-f8c169852742" />
+<img width="1920" height="1080" alt="7-drop" src="https://github.com/user-attachments/assets/9fc795e0-f6de-4a05-9c32-d4020059d8fd" />
+<img width="1920" height="1080" alt="6-swings" src="https://github.com/user-attachments/assets/2de632c8-243e-48bd-b884-e0d0c504ccf9" />
+<img width="1920" height="1080" alt="5-ghost" src="https://github.com/user-attachments/assets/eb69043c-1fba-4c5e-85d1-8b800118f6b1" />
+<img width="1920" height="1080" alt="4-roller" src="https://github.com/user-attachments/assets/b7a39429-244e-4869-95e5-23a40704ba57" />
+<img width="1920" height="1080" alt="2-car" src="https://github.com/user-attachments/assets/4308f4bd-5dbc-4f7d-ae0b-948b3cf28e17" />
+<img width="1920" height="1080" alt="1-moon" src="https://github.com/user-attachments/assets/48a2ba0a-06f9-4a1e-81b4-0591f61aa4fd" />
