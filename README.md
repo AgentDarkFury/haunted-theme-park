@@ -5,7 +5,7 @@ Here's a few clips from very early stages of prototyping.
 Stay tuned for more updates!
 
 Download the prototype here:
-https://agentdarkfury.itch.io/final-destination
+<iframe frameborder="0" src="https://itch.io/embed/4099480?bg_color=1a0d0d&amp;fg_color=d2bcbc&amp;link_color=fa5c5c&amp;border_color=413c3e" width="552" height="167"><a href="https://agentdarkfury.itch.io/final-destination">Final Destination by AgentDarkFury</a></iframe>
 <img width="1920" height="1080" alt="ride toggle" src="https://github.com/user-attachments/assets/32a53485-d31c-43c6-8cef-fe65906cbd46" />
 <img width="1920" height="1080" alt="reaper" src="https://github.com/user-attachments/assets/38143a53-d5cc-4a38-9acc-2379406dca0f" />
 <img width="1920" height="1080" alt="npc" src="https://github.com/user-attachments/assets/5755d50b-a5c6-4b52-baea-f8c169852742" />
